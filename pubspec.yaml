@@ -15,6 +15,9 @@ dependencies:
   basic_utils: ^2.6.0
   ninja: ^3.0.0
 
+dependency_overrides:
+  crypto: ^3.0.0
+
 dev_dependencies:
   convert: ^2.1.1
   flutter:
